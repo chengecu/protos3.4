@@ -5,5 +5,5 @@ syntax = "proto3";
 enum OptionType {
 	OPTION_TYPE_NONE = 0;
 	OPTION_TYPE_NORMAL = 1;
-	NIDBIDKJEGD = 2;
+	OPTION_TYPE_FIRST_CAN_GO = 2;
 }

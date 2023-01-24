@@ -2,7 +2,7 @@ syntax = "proto3";
 
 
 
-import "ANENMJAEPAO.proto";
+import "CompoundBoostTakeStatusType.proto";
 import "CompoundQueueData.proto";
 import "ItemParam.proto";
 
@@ -18,5 +18,5 @@ message PlayerCompoundMaterialBoostReq {
 	repeated CompoundQueueData compoundQueueDataList = 6;
 	int32 retcode = 15;
 	repeated ItemParam ikceidbkdla = 14;
-	ANENMJAEPAO obkcgkalonf = 8;
+	CompoundBoostTakeStatusType obkcgkalonf = 8;
 }

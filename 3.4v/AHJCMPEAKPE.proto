@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-
-
-import "PotionStageData.proto";
-
-message AHJCMPEAKPE {
-	repeated PotionStageData stageList = 11;
-}

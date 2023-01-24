@@ -2,7 +2,7 @@ syntax = "proto3";
 
 
 
-import "FGAFMCEGHPG.proto";
+import "CmdId.proto";
 
 message GCGDSDataNotify {
 	enum GHNDNNPCIJP {
@@ -13,5 +13,5 @@ message GCGDSDataNotify {
 		NNBKOLMPOEA = 1;
 	}
 
-	FGAFMCEGHPG mjjacnclhpf = 1;
+	CmdId mjjacnclhpf = 1;
 }

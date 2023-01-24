@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-
-
-import "HomeBalloonGalleryRecord.proto";
-
-message HOECOLGBDJG {
-	repeated HomeBalloonGalleryRecord recordList = 7;
-}

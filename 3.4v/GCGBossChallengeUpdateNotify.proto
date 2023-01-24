@@ -2,16 +2,16 @@ syntax = "proto3";
 
 
 
+import "GCGBossChallengeData.proto";
 
 message GCGBossChallengeUpdateNotify {
-	enum JEGHNMNKFHL {
+	enum OGCPGBNLNOM {
 		option allow_alias = true;
 		NONE = 0;
-		PEPPOHPHJOJ = 7360;
+		PEPPOHPHJOJ = 7119;
 		DCDNILFDFLB = 0;
 		NNBKOLMPOEA = 1;
 	}
 
-	repeated uint32 adobcdcfbpn = 1;
-	uint32 levelId = 7;
+	GCGBossChallengeData jmpbgnfplkb = 9;
 }

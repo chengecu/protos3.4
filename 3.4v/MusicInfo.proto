@@ -2,8 +2,8 @@ syntax = "proto3";
 
 
 
-import "DEOEBIFLMDE.proto";
+import "FleurFairMusicRecord.proto";
 
 message MusicInfo {
-	map<uint32, DEOEBIFLMDE> fbmomkmdima = 9;
+	map<uint32, FleurFairMusicRecord> fbmomkmdima = 9;
 }

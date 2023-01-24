@@ -4,13 +4,13 @@ syntax = "proto3";
 
 
 message GCGLevelChallengeDeleteNotify {
-	enum LFDNFMMMGNM {
+	enum BDOLPLLDNIN {
 		option allow_alias = true;
 		NONE = 0;
-		PEPPOHPHJOJ = 7273;
+		PEPPOHPHJOJ = 7737;
 		DCDNILFDFLB = 0;
 		NNBKOLMPOEA = 1;
 	}
 
-	repeated uint32 levelIdList = 6;
+	repeated uint32 fdpppbpejae = 14;
 }

@@ -2,8 +2,8 @@ syntax = "proto3";
 
 
 
-import "EOCMFCLNOCM.proto";
-import "CKBGFLABBBG.proto";
+import "GCGLevelData.proto";
+import "GCGBossChallengeData.proto";
 
 message GCGWorldChallengeUnlockNotify {
 	enum HDFPCKFMMLI {
@@ -14,7 +14,7 @@ message GCGWorldChallengeUnlockNotify {
 		NNBKOLMPOEA = 1;
 	}
 
-	repeated EOCMFCLNOCM levelList = 13;
+	repeated GCGLevelData levelList = 13;
 	repeated uint32 dglpakpipci = 1;
-	repeated CKBGFLABBBG effafbokpha = 11;
+	repeated GCGBossChallengeData effafbokpha = 11;
 }

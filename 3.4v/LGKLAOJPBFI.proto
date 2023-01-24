@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-
-
-import "CBBENONHMMO.proto";
-
-message LGKLAOJPBFI {
-	repeated CBBENONHMMO infoList = 2;
-}

@@ -2,11 +2,12 @@ syntax = "proto3";
 
 
 
+import "CharAmusementAvatarInfo.proto";
 
 message CharAmusementInfo {
-	bool isLastLevel = 10;
-	uint32 maxScore = 8;
-	bool isSuccess = 7;
-	bool isFinish = 5;
-	uint32 curScore = 12;
+	repeated CharAmusementAvatarInfo avatarInfoList = 11;
+	uint32 emdkpmhihmp = 3;
+	uint32 levelId = 6;
+	uint32 stageId = 8;
+	uint32 inllhgjoaco = 5;
 }

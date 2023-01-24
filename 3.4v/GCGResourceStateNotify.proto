@@ -2,7 +2,7 @@ syntax = "proto3";
 
 
 
-import "GFDANFJCLPO.proto";
+import "GCGPlayerGCGState.proto";
 
 message GCGResourceStateNotify {
 	enum NGMOOLEDMPJ {
@@ -14,5 +14,5 @@ message GCGResourceStateNotify {
 	}
 
 	int32 retcode = 2;
-	repeated GFDANFJCLPO lolbinbndgc = 5;
+	repeated GCGPlayerGCGState lolbinbndgc = 5;
 }

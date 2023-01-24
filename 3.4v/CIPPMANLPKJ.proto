@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-
-
-import "JKIHOGNAFBG.proto";
-
-message CIPPMANLPKJ {
-	repeated JKIHOGNAFBG stageDataList = 1;
-}

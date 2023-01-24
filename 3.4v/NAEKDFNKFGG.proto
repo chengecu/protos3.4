@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-
-
-import "OGLPONANCAM.proto";
-
-message NAEKDFNKFGG {
-	repeated OGLPONANCAM infoList = 6;
-}

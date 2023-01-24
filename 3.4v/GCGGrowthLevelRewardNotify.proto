@@ -2,7 +2,7 @@ syntax = "proto3";
 
 
 
-import "FHMGDLHBNOK.proto";
+import "GCGTCTavernChallengeData.proto";
 
 message GCGGrowthLevelRewardNotify {
 	enum BOGLAPKFCMG {
@@ -13,5 +13,5 @@ message GCGGrowthLevelRewardNotify {
 		NNBKOLMPOEA = 1;
 	}
 
-	FHMGDLHBNOK oaemlknkeio = 10;
+	GCGTCTavernChallengeData oaemlknkeio = 10;
 }

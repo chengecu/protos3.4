@@ -2,8 +2,8 @@ syntax = "proto3";
 
 
 
-import "FNKIKEEGHGA.proto";
-import "FGCEKBOCHLK.proto";
+import "GCGDSCardData.proto";
+import "GCGDSDeckData.proto";
 
 message GCGDSFieldUnlockNotify {
 	enum EGDHDJOMKPG {
@@ -15,9 +15,9 @@ message GCGDSFieldUnlockNotify {
 	}
 
 	repeated uint32 mpojoaeafpn = 5;
-	repeated FNKIKEEGHGA cardList = 7;
+	repeated GCGDSCardData cardList = 7;
 	uint32 fkppeakjlmb = 2;
 	repeated uint32 noclfjjcgeo = 13;
-	repeated FGCEKBOCHLK ocigcagdgml = 11;
+	repeated GCGDSDeckData ocigcagdgml = 11;
 	repeated uint32 bcmbnjhmble = 8;
 }

@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-
-
-import "JBNPKGCGNBH.proto";
-
-message DILEEDBOABN {
-	repeated JBNPKGCGNBH kmhabponajo = 10;
-}

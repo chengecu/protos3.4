@@ -2,9 +2,9 @@ syntax = "proto3";
 
 
 
-import "PHKLDOKLHJL.proto";
+import "GameplayRecommendationReliquaryMainPropData.proto";
 
 message ReliquaryResponse {
-	repeated PHKLDOKLHJL nbbpegfkpac = 12;
+	repeated GameplayRecommendationReliquaryMainPropData nbbpegfkpac = 12;
 	uint32 equipType = 15;
 }
