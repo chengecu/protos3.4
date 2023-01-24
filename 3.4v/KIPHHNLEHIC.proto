@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+
+
+
+message KIPHHNLEHIC {
+	uint32 bestScore = 7;
+}

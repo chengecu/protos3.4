@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+
+
+import "DEOEBIFLMDE.proto";
+
+message LIEALHPHPFD {
+	map<uint32, DEOEBIFLMDE> fbmomkmdima = 9;
+}

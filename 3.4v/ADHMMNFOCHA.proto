@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+
+
+import "HFDDJOPOBLP.proto";
+
+message ADHMMNFOCHA {
+	repeated HFDDJOPOBLP stageInfoList = 9;
+}

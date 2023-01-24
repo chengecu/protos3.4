@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+
+
+enum AANDECPDAAD {
+	MIKKJADEEMM = 0;
+	OLLENKGDGDL = 1;
+	KLDKBGGNLON = 2;
+	KKMOPPBEFIJ = 3;
+	JJKKOPAIGEK = 4;
+	AHDEALACKJO = 5;
+}

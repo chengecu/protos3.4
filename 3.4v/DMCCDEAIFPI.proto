@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+
+
+
+message DMCCDEAIFPI {
+	uint32 suiteId = 1;
+}

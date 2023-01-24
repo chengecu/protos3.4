@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+
+
+
+message GCGBossChallengeUpdateNotify {
+	enum JEGHNMNKFHL {
+		option allow_alias = true;
+		NONE = 0;
+		PEPPOHPHJOJ = 7360;
+		DCDNILFDFLB = 0;
+		NNBKOLMPOEA = 1;
+	}
+
+	repeated uint32 adobcdcfbpn = 1;
+	uint32 levelId = 7;
+}

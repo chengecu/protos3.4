@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+
+
+
+message DDMOKJEGJLG {
+	uint32 itemId = 1;
+	bool baplahgkmbl = 2;
+}

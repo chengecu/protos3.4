@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+
+
+import "NAEKDFNKFGG.proto";
+
+message ADFLMGDBABE {
+	repeated uint32 mdilcblhnao = 2;
+	map<uint32, uint32> lneiknbbcdd = 11;
+	map<uint32, NAEKDFNKFGG> fhmdalcaomp = 5;
+}

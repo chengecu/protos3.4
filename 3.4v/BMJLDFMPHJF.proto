@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+
+
+
+message BMJLDFMPHJF {
+	uint32 skillDepotId = 9;
+}

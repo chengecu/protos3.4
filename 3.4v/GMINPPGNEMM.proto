@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+
+
+
+message GMINPPGNEMM {
+	uint32 costumeId = 15;
+	uint32 avatarId = 8;
+}

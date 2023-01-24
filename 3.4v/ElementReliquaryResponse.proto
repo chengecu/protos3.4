@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+
+
+import "PHKLDOKLHJL.proto";
+
+message ElementReliquaryResponse {
+	uint32 elementType = 4;
+	repeated PHKLDOKLHJL nbbpegfkpac = 3;
+	uint32 equipType = 7;
+}

@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+
+
+
+message HGLNJGCBOAK {
+	uint32 bestScore = 12;
+	uint32 startTime = 2;
+}

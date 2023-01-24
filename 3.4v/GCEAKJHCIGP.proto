@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+
+
+
+message GCEAKJHCIGP {
+	uint32 equipType = 7;
+}

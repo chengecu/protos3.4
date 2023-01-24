@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+
+
+enum GCGTavernNpcInfo {
+	DGHMBMMMIHJ = 0;
+	NMLJILEOGOP = 1;
+	BCAFAONDOEC = 2;
+	KEPFKAHENHC = 3;
+}

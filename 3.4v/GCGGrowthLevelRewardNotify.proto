@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+
+
+import "FHMGDLHBNOK.proto";
+
+message GCGGrowthLevelRewardNotify {
+	enum BOGLAPKFCMG {
+		option allow_alias = true;
+		NONE = 0;
+		PEPPOHPHJOJ = 7570;
+		DCDNILFDFLB = 0;
+		NNBKOLMPOEA = 1;
+	}
+
+	FHMGDLHBNOK oaemlknkeio = 10;
+}

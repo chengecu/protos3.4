@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+
+
+enum LCHJMDPBCGL {
+	OPEHPJMBIKG = 0;
+	HEFGNILPHAG = 1;
+	GFKFEDPIEOH = 2;
+	PHCLNDFLDJA = 3;
+	DKKKMBOFALE = 4;
+}
