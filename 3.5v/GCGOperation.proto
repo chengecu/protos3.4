@@ -2,26 +2,25 @@ syntax = "proto3";
 
 option java_package = "layla.sleep.proto";
 
-import "CBBFEJJDBNO.proto";
-import "DODPKMOFDGP.proto";
-import "HBGEEBPFDEL.proto";
-import "HJCEJCIMBAD.proto";
-import "JBAAKNEGPHN.proto";
-import "JMKLPMBHOGG.proto";
-import "MFAPEBAOAIB.proto";
-import "NIBCJKGJBNG.proto";
+import "GCGOperationAttack.proto";
+import "GCGOperationOnStageSelect.proto";
+import "GCGOperationPass.proto";
+import "GCGOperationPlayCard.proto";
+import "GCGOperationReboot.proto";
+import "GCGOperationRedraw.proto";
+import "GCGOperationReroll.proto";
+import "GCGOperationSurrender.proto";
 
-// Name: GCGOperation
+// Name: AOBAFNIHINJ
 message GCGOperation {
-    oneof BAJHMIBJPMG {
-        CBBFEJJDBNO CJMBMFHFDMF = 3;
-        HJCEJCIMBAD FLJAAAOONIK = 14;
-        DODPKMOFDGP JNONJGLADJE = 6;
-        HBGEEBPFDEL BHLMLPBPMIA = 2;
-        JMKLPMBHOGG LMONILNOJAI = 15;
-        MFAPEBAOAIB OJMLFAGIIDP = 9;
-        JBAAKNEGPHN KNAAEEEOPCK = 12;
-        NIBCJKGJBNG KLBNEFEJNIN = 4;
+    oneof op {
+        GCGOperationRedraw op_redraw = 3;
+        GCGOperationOnStageSelect op_select_on_stage = 14;
+        GCGOperationReroll op_reroll = 6;
+        GCGOperationAttack op_attack = 2;
+        GCGOperationPass op_pass = 15;
+        GCGOperationPlayCard op_play_card = 9;
+        GCGOperationReboot op_reboot = 12;
+        GCGOperationSurrender op_surrender = 4;
     }
 }
-

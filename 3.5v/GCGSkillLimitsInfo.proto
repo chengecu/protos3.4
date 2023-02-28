@@ -4,7 +4,7 @@ option java_package = "layla.sleep.proto";
 
 import "GCGLimitsInfo.proto";
 
-// Name: GILKJDIJOIG
+// Name: GCGSkillLimitsInfo
 message GCGSkillLimitsInfo {
     repeated GCGLimitsInfo limits_list = 11;
     uint32 skill_id = 7;

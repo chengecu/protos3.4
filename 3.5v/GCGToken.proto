@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "layla.sleep.proto";
 
 
-// Name: PALOPENLFFM
+// Name: GCGToken
 message GCGToken {
     uint32 value = 6;
     uint32 key = 13;

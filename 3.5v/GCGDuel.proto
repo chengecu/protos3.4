@@ -4,7 +4,7 @@ option java_package = "layla.sleep.proto";
 
 import "GCGPlayerField.proto";
 import "DPBAJDJIMAA.proto";
-import "EIDMNOJMFIF.proto";
+import "GCGPhase.proto";
 import "FMOEOCJBOPN.proto";
 import "GPCKNDGKBBD.proto";
 import "HHKFLCHIBJJ.proto";
@@ -19,7 +19,7 @@ message GCGDuel {
     repeated HHKFLCHIBJJ FLECBBNJDOB = 8;
     uint32 DELFEGPPGMK = 6;
     repeated GCGDuelChallenge MBCDFDKJFIG = 1778;
-    EIDMNOJMFIF JFFMMIKBICI = 11;
+    GCGPhase phase = 11;
     repeated MNNNHOOHGHF CBNFENJBKKE = 1;
     repeated GCGCard AAOFBGCFKGN = 301;
     repeated GCGPlayerField field_list = 9;
