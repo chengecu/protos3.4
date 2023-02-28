@@ -8,12 +8,11 @@ option java_package = "layla.sleep.proto";
 message GCGGameCreateFailReasonNotify {
     // Name: GCGGameCreateReason
     enum GCGGameCreateReason {
-        GCGGameCreateReason_NONDINLCGFO = 0;
-        GCGGameCreateReason_CGAFAKMGIBO = 1;
-        GCGGameCreateReason_NINOFNAFKHO = 2;
-        GCGGameCreateReason_GOIPCFPLOLG = 3;
-        GCGGameCreateReason_JJNMPNGFHOI = 4;
-        GCGGameCreateReason_MEPDCLLKNPN = 5;
+        REASON_NONE = 0;
+        REASON_GAME_MAX = 1;
+        REASON_CLIENT_VERSION_NOT_LASTEST = 2;
+        REASON_RESOURCE_NOT_COMPLETE = 3;
+        REASON_TIMEOUT = 4;
     }
 
     GCGGameCreateReason reason = 6;
