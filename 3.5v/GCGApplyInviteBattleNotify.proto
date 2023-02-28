@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "layla.sleep.proto";
 
 
-// Name: HOPNNDIEGBJ
+// Name: GCGApplyInviteBattleNotify
 // CmdId: 7514
 message GCGApplyInviteBattleNotify {
     bool is_agree = 7;

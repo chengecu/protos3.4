@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "layla.sleep.proto";
 
 
-// Name: LGFMBGFHJEF
+// Name: GCGGrowthLevelNotify
 // CmdId: 7680
 message GCGGrowthLevelNotify {
     uint32 level = 10;

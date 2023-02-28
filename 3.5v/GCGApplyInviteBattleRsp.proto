@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "layla.sleep.proto";
 
 
-// Name: KPPKGLBHPDN
+// Name: GCGApplyInviteBattleRsp
 // CmdId: 7940
 message GCGApplyInviteBattleRsp {
     uint32 punish_end_time = 7;

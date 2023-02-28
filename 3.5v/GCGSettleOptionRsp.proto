@@ -4,7 +4,7 @@ option java_package = "layla.sleep.proto";
 
 import "GCGSettleOption.proto";
 
-// Name: MJDIPKANHDE
+// Name: GCGSettleOptionRsp
 // CmdId: 7883
 message GCGSettleOptionRsp {
     GCGSettleOption option = 9;

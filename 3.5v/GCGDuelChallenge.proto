@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "layla.sleep.proto";
 
 
-// Name: INNMBACLEMO
+// Name: GCGDuelChallenge
 message GCGDuelChallenge {
     uint32 total_progress = 11;
     uint32 challenge_id = 13;

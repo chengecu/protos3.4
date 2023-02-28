@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "layla.sleep.proto";
 
 
-// Name: EIOOMOJGHCP
+// Name: GCGTavernNpcInfo
 message GCGTavernNpcInfo {
     uint32 level_id = 14;
     uint32 id = 8;

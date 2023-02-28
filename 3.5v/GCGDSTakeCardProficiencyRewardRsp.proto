@@ -3,7 +3,7 @@ syntax = "proto3";
 option java_package = "layla.sleep.proto";
 
 
-// Name: CMNONPNCADC
+// Name: GCGDSTakeCardProficiencyRewardRsp
 // CmdId: 7071
 message GCGDSTakeCardProficiencyRewardRsp {
     int32 retcode = 12;

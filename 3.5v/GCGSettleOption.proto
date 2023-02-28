@@ -3,11 +3,11 @@ syntax = "proto3";
 option java_package = "layla.sleep.proto";
 
 
-// Name: JHJNFOBKEOG
+// Name: GCGSettleOption
 enum GCGSettleOption {
-    GCG_SETTLE_OPT_NONE = 0;
-    GCG_SETTLE_OPT_EXIT = 1;
-    GCG_SETTLE_OPT_CONTINUE = 2;
-    GCG_SETTLE_OPT_RESTART = 3;
+    GCGSettleOption_JOFBHBLIBND = 0;
+    GCGSettleOption_BPBOJCGMLPG = 1;
+    GCGSettleOption_IHBMBOLFBED = 2;
+    GCGSettleOption_COELPBNHDPD = 3;
 }
 
